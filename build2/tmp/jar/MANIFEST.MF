@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: build.gradle
+Main-Class: org.python.util.jython
+
+Name: Build-Info
+informix: false
+build-compiler: modern
+debug: true
+oracle: false
+version: 3.0.1
+jdk-target-version: 1.8
+
