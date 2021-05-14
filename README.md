@@ -1,4 +1,4 @@
-# Jython 3 : Python for the Java Platform
+# Jython 3 : Python 3 for the Java Platform
 
 This is the development repository of Jython 3,
 the implementation of Python 3 in Java.
